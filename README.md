@@ -1,3 +1,3 @@
 # My Portfolio Repo
 
-This is test line
+This is my portfolio site built with Next.JS framework.
