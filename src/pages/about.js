@@ -19,6 +19,7 @@ const about = () => {
           <div className="grid w-full grid-cols-8 gap-16">
             <div>
               <h2>Biography</h2>
+              <h1>n</h1>
             </div>
           </div>
         </Layout>
